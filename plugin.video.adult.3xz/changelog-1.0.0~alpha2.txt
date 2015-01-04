@@ -1,0 +1,23 @@
+~alpha1
+    - addon base
+    - additional sites +sensualhd +watchxxxhd +streamgloud +playporn
+    - additional resolvers flashx.tv, googlevideo, streamin.to
+
+~alpha2
+    - additional sites +xtheatre
+    - additional resolvers +videowood +sextvx +playvid +videomega
+    - fixed googlevideo/picasaweb scrape to get proper video instead of whole gallery
+    - fixed videomega urlresolver additional hashcontrol/adblock measures
+
+- before first release
+    - todo: additional sites +freeomovies (possibly others)
+    - todo: search for streamgloud
+    - todo: graphics and artist bylines
+    - todo: localize rewrite strings.xml
+    - todo: additional testing / fixes
+    - todo: additional code cleanup/reworking
+
+- before or after first release
+    - todo: favorites
+    - todo: settings
+    ~ todo: parental control
