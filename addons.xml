@@ -2,7 +2,7 @@
 <addons>
 <addon id="plugin.video.adult.3xz"
        name="3XZ"
-       version="1.0.0~alpha2"
+       version="1.0.0~alpha3"
        provider-name="smokdpi">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
