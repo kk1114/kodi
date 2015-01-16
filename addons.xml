@@ -2,7 +2,7 @@
 <addons>
 <addon id="plugin.video.adult.3xz"
        name="3XZ"
-       version="1.0.0~alpha3"
+       version="1.0.0~alpha4"
        provider-name="smokdpi">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -15,7 +15,7 @@
   </extension>
   <extension point="xbmc.addon.metadata">
     <summary lang="en">ADULT ONLY -- 18+ XXX -- Stream from multiple sources.</summary>
-    <description lang="en">ADULT ONLY -- 18+ XXX -- Stream full length movies and scenes from multiple sources.</description>
+    <description lang="en">[B][COLOR white]ADULT ONLY[/COLOR] [COLOR red]18+ XXX[/COLOR][/B][CR][CR]Stream full length XXX movies and scenes from multiple sources.</description>
     <disclaimer lang="en">The author does not host or distribute any of the content displayed by this addon. The author does not have any affiliation with the content provider(s).</disclaimer>
     <platform>all</platform>
   </extension>
