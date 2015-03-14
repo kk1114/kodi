@@ -1,0 +1,64 @@
+~alpha10
+    - new icons put in place for testing
+    - watchxxxhd updated to .org from .net
+    - re-added working streamcloud resolver (accidental removal when setting up for urlresolver pull request)
+    - re-added and fixed videomega resolver
+    - minor updates to all resolvers
+
+~alpha9
+    - added Autoplay
+    - added Disclaimer on update and first run
+    - Minor resolver fixes
+    - Other Core and Playback module fixes/adjustments
+
+~alpha8
+    - fixed additional issues with playback/resolvers since urlresolver update
+    - re-added StreamGloud
+    - added per site Favorites
+    - streamcloud resolver now working
+
+~alpha7
+    - fixed broken playback due to changes in urlresolver
+    - removed StreamGloud, domain no longer resolves
+
+~alpha6
+    - additional fixes for all resolvers
+    - addon resolvers now unique and processed before urlresolver plugins(honors priority)
+    - strings.xml updated for Favorites
+    - replaced script.module.addon.common with script.module.t0mm0.common
+
+~alpha5
+    - videomega and flashx resolvers fixed
+    - added 'order' to framework and site modules to easily sort main menu
+
+~alpha4
+    - multiple sources working for watchxxxhd xtheatre
+    - flashx resolver now returns rtmp link / quality choice
+    - googlevideo/picasaweb resolver now returns quality choice (was scraped prior to resolver)
+    - videomega resolver now accepts and resolves from /validatehash.php url directly
+    - reorganized menus
+    - resolver plugins now dynamically loaded from lib\plugins
+    - playback module now loaded immediately prior to use to avoid unnecessary urlresolver/plugin importing
+    - sites converted to modules:
+            - able to dynamically add/remove for future development
+            - load only the site module needed for user action
+
+~alpha3
+    - additional sites +freeomovie
+    - search streamgloud
+    - default.py and strings.xml updated for general localization (only english strings.xml)
+
+~alpha2
+    - additional sites +xtheatre
+    - additional resolvers +videowood +sextvx +playvid +videomega
+    - fixed googlevideo/picasaweb scrape to get proper video instead of whole gallery
+
+~alpha1
+    - addon base
+    - additional sites +sensualhd +watchxxxhd +streamgloud +playporn
+    - additional resolvers +flashx +googlevideo +streamin
+
+- before first release
+    - todo: graphics and artist bylines
+    - todo: additional testing / fixes
+    - todo: additional code cleanup/reworking
