@@ -1,0 +1,16 @@
+[B]v1.0.0~alpha4 (March 12, 2015):[/B]
+- Core and Playback updates
+- Added setting 'Edit StreamURL before Playback'
+
+[B]v1.0.0~alpha3 (March 12, 2015):[/B]
+- Resolver updates
+S
+[B]v1.0.0~alpha2 (March 8, 2015):[/B]
+- Autoplay added for any media with full sources
+- Disclaimer added on update and first run
+- Minor resolver fixes
+
+[B]v1.0.0~alpha1 (March 3, 2015):[/B]
+- Future development taken over by myself
+- Changed addon format for ease of future changes
+- Initial testing release
