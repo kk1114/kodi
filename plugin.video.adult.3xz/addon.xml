@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="plugin.video.adult.3xz"
        name="3XZ"
-       version="1.0.0~alpha11"
+       version="1.0.0"
        provider-name="smokdpi">
-  <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-    <import addon="script.module.urlresolver" />
-    <import addon="script.module.t0mm0.common"/>
-    <import addon="script.module.beautifulsoup" version="3.2.1"/>
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="default.py">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0"/>
+        <import addon="script.module.urlresolver"/>
+        <import addon="script.module.t0mm0.common"/>
+        <import addon="script.module.beautifulsoup" version="3.2.1"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
         <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en">ADULT ONLY -- 18+ XXX -- Stream from multiple sources.</summary>
-    <description lang="en">[B][COLOR white]ADULT ONLY[/COLOR] [COLOR red]18+ XXX[/COLOR][/B][CR][CR]Stream full length XXX movies and scenes from multiple sources.</description>
-    <disclaimer lang="en">The author does not host or distribute any of the content displayed by this addon. The author does not have any affiliation with the content provider(s).</disclaimer>
-    <platform>all</platform>
-  </extension>
-</addon>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en">ADULT ONLY -- 18+ XXX -- Stream from multiple sources.</summary>
+        <description lang="en">[B][COLOR white]ADULT ONLY[/COLOR] [COLOR red]18+ XXX[/COLOR][/B][CR][CR]Stream full length XXX movies and scenes from multiple sources.</description>
+        <disclaimer lang="en">The author does not host or distribute any of the content displayed by this addon. The author does not have any affiliation with the content provider(s). Any likeness' portrayed do not endorse/support the author, sites or content within.</disclaimer>
+        <platform>all</platform>
+    </extension>
+    </addon>

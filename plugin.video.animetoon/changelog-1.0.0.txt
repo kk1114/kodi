@@ -1,0 +1,2 @@
+[B]v1.0.0 - Mar. 20, 2015[/B]
+    - First Release since development taken over
