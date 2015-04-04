@@ -21,9 +21,31 @@
     </extension>
     </addon>
 
+<addon id="plugin.video.anime4fun"
+       name="Anime4fun"
+       version="1.0.0"
+       provider-name="smokdpi">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.urlresolver"/>
+    <import addon="script.module.t0mm0.common"/>
+    <import version="3.2.1" addon="script.module.beautifulsoup"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Subbed Anime from Anime4fun.com</summary>
+    <description lang="en">[B]Anime4fun[/B][CR][CR]Watch subbed anime series and movies from Anime4fun.com</description>
+    <disclaimer lang="en">The author does not host or distribute any of the content displayed by this add-on. The author does not have any affiliation with the content provider(s).</disclaimer>
+    <platform>all</platform>
+    <license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
+  </extension>
+</addon>
+
 <addon id="plugin.video.animetoon"
        name="AnimeToon"
-       version="1.0.5"
+       version="1.0.6"
        provider-name="smokdpi">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
