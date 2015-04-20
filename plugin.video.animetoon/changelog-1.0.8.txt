@@ -1,0 +1,28 @@
+[B]v1.0.8 - Apr. 19, 2015[/B]
+	- Normalized Resolvers across addons with preceding si_
+	
+[B]v1.0.7 - Apr. 5, 2015[/B]
+    - Update Playback/xbmcdict to current
+
+[B]v1.0.6 - Apr. 3, 2015[/B]
+    - Added Socket Timeout to settings
+
+[B]v1.0.5 - Mar. 28, 2015[/B]
+    - Added Cookie Support (Clear Cookies in Settings)
+	
+[B]v1.0.4 - Mar. 28, 2015[/B]
+    - Added Addon Lock to settings
+
+[B]v1.0.3 - Mar. 23, 2015[/B]
+    - Added IRC link to menus
+    - Additions to Core and Base to support IRC link
+
+[B]v1.0.2 - Mar. 21, 2015[/B]
+    - Update to playback module for pluggable resolvers
+    - Added feedback for 'No Sources Found' where missing
+
+[B]v1.0.1 - Mar. 20, 2015[/B]
+    - Added missing folder in Favorites
+
+[B]v1.0.0 - Mar. 20, 2015[/B]
+    - First Release since development taken over
