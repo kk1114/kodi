@@ -2,7 +2,7 @@
 <addons>
 <addon id="plugin.video.adult.3xz"
        name="3XZ"
-       version="1.0.8"
+       version="1.0.9"
        provider-name="smokdpi">
     <requires>
         <import addon="xbmc.python" version="2.1.0"/>
@@ -80,6 +80,28 @@
   <extension point="xbmc.addon.metadata">
     <summary lang="en">Play URL/File/Playlist</summary>
     <description lang="en">Play URL/File/Playlist</description>
+    <disclaimer lang="en">The author does not host or distribute any of the content displayed by this add-on. The author does not have any affiliation with the content provider(s).</disclaimer>
+    <platform>all</platform>
+    <license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
+  </extension>
+</addon>
+
+<addon id="plugin.video.watchepicdubbed"
+       name="WatchEpicDubbed"
+       version="1.0.0"
+       provider-name="smokdpi">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.urlresolver"/>
+    <import addon="script.module.t0mm0.common"/>
+    <import version="3.2.1" addon="script.module.beautifulsoup"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Dubbed Anime from WatchEpicDubbed.eu</summary>
+    <description lang="en">[B]WatchEpicDubbed[/B][CR][CR]Watch dubbed anime series and movies from WatchEpicDubbed.eu</description>
     <disclaimer lang="en">The author does not host or distribute any of the content displayed by this add-on. The author does not have any affiliation with the content provider(s).</disclaimer>
     <platform>all</platform>
     <license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
