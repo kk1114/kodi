@@ -2,7 +2,7 @@
 <addons>
 <addon id="plugin.video.adult.3xz"
        name="3XZ"
-       version="1.0.9"
+       version="1.0.10"
        provider-name="smokdpi">
     <requires>
         <import addon="xbmc.python" version="2.1.0"/>
@@ -23,7 +23,7 @@
 
 <addon id="plugin.video.anime4fun"
        name="Anime4fun"
-       version="1.0.4"
+       version="1.0.5"
        provider-name="smokdpi">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -67,7 +67,7 @@
 
 <addon id="plugin.video.playthis"
        name="PlayThis"
-       version="1.0.0~alpha1"
+       version="1.0.0"
        provider-name="smokdpi">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -78,8 +78,8 @@
         <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary lang="en">Play URL/File/Playlist</summary>
-    <description lang="en">Play URL/File/Playlist</description>
+    <summary lang="en">Play URL/File</summary>
+    <description lang="en">Single dialog, will attempt to resolve and play the provided url/file location.</description>
     <disclaimer lang="en">The author does not host or distribute any of the content displayed by this add-on. The author does not have any affiliation with the content provider(s).</disclaimer>
     <platform>all</platform>
     <license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
