@@ -1,6 +1,0 @@
-[B]v1.0.1 - Mar. 21, 2015[/B]
-    - Update to playback module for pluggable resolvers
-    - Added feedback for 'No Sources Found' where missing
-
-[B]v1.0.0 - Mar. 20, 2015[/B]
-    - First Release
