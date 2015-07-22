@@ -2,7 +2,7 @@
 <addons>
 <addon id="plugin.video.adult.3xz"
        name="3XZ"
-       version="1.1"
+       version="1.1.1"
        provider-name="smokdpi">
     <requires>
         <import addon="xbmc.python" version="2.1.0"/>
@@ -15,7 +15,7 @@
     </extension>
     <extension point="xbmc.addon.metadata">
         <summary lang="en">ADULT ONLY -- 18+ XXX -- Stream from multiple sources.</summary>
-        <description lang="en">[B][COLOR white]ADULT ONLY[/COLOR] [COLOR red]18+ XXX[/COLOR][/B][CR][CR]Stream full length XXX movies and scenes from multiple sources.</description>
+        <description lang="en">[B][COLOR white]ADULT ONLY[/COLOR] [COLOR red]18+ XXX[/COLOR][/B][CR][CR]Stream full length XXX movies and scenes from multiple sources.[CR][CR][B]Artwork by @konsumer420[/B]</description>
         <disclaimer lang="en">The author does not host or distribute any of the content displayed by this addon. The author does not have any affiliation with the content provider(s). Any likeness' portrayed do not endorse/support the author, sites or content within.</disclaimer>
         <platform>all</platform>
     </extension>
@@ -23,7 +23,7 @@
 
 <addon id="plugin.video.anime4fun"
        name="Anime4fun"
-       version="1.0.6"
+       version="1.0.7"
        provider-name="smokdpi">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -36,7 +36,7 @@
   </extension>
   <extension point="xbmc.addon.metadata">
     <summary lang="en">Subbed Anime from Anime4fun.com</summary>
-    <description lang="en">[B]Anime4fun[/B][CR][CR]Watch subbed anime series and movies from Anime4fun.com/animeonlinetv.tv</description>
+    <description lang="en">[B]Anime4fun[/B][CR][CR]Watch subbed anime series and movies from Anime4fun.com/animeonlinetv.tv[CR][CR][B]Artwork by @konsumer420[/B]</description>
     <disclaimer lang="en">The author does not host or distribute any of the content displayed by this add-on. The author does not have any affiliation with the content provider(s).</disclaimer>
     <platform>all</platform>
     <license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
@@ -67,7 +67,7 @@
 
 <addon id="plugin.video.playthis"
        name="PlayThis"
-       version="1.0.0"
+       version="1.0.1"
        provider-name="smokdpi">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -79,7 +79,7 @@
   </extension>
   <extension point="xbmc.addon.metadata">
     <summary lang="en">Play URL/File</summary>
-    <description lang="en">Single dialog, will attempt to resolve and play the provided url/file location.</description>
+    <description lang="en">Single dialog, will attempt to resolve and play the provided url/file location.[CR][CR][B]Artwork by @konsumer420[/B]</description>
     <disclaimer lang="en">The author does not host or distribute any of the content displayed by this add-on. The author does not have any affiliation with the content provider(s).</disclaimer>
     <platform>all</platform>
     <license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>

@@ -1,0 +1,5 @@
+[B]v1.0.1 (July 22, 2015):[/B]
+    - resolver updates openload, flashx
+    - Artwork byline added, huge thanks to @konsumer420
+
+[B]v1.0.0 (May 28, 2015):[/B]
